@@ -12,11 +12,18 @@ IoU Filtering: Refines detection results by filtering based on Intersection over
 Visualization: Displays images with bounding boxes around detected objects.
 
 # Installation
-Prerequisites
-Python
-Required libraries
-TensorFlow/Keras (for RCNN)
-OpenCV
-Streamlit
-NumPy
-pandas
+ 1.Prerequisites
+ 
+2.Python
+
+3.Required libraries
+
+4.TensorFlow/Keras (for RCNN)
+
+5.OpenCV
+
+6.Streamlit
+
+7.NumPy
+
+8.pandas
